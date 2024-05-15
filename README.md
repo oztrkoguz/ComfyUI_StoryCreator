@@ -1,7 +1,7 @@
 ## Usage
 ```
 cd custom_nodes
-git clone https://github.com/oztrkoguz/ComfyUI_Kosmos2_BBox_Cutter.git
+git clone https://github.com/oztrkoguz/ComfyUI_StoryCreater_and_Imager
 ```
 
 ## ComfyUI_StoryCreater_and_Imager Models
