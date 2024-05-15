@@ -13,4 +13,7 @@ git clone https://github.com/oztrkoguz/ComfyUI_Kosmos2_BBox_Cutter.git
 #### Creating a story and presenting this story visually 
 
 ![example](https://github.com/oztrkoguz/ComfyUI_StoryCreater_and_Imager/assets/101019436/dd319f8d-35d8-4a0a-9020-00cd919c60d9)
+
+#### Identifying objects from the image, creating a story using these objects and reproducing this story visually
+
 ![example4](https://github.com/oztrkoguz/ComfyUI_StoryCreater_and_Imager/assets/101019436/a1713a15-3c7d-4a7c-8879-6354ab3516f0)
