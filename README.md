@@ -1,7 +1,7 @@
 ## Usage
 ```
 cd custom_nodes
-git clone https://github.com/oztrkoguz/ComfyUI_StoryCreater
+git clone https://github.com/oztrkoguz/ComfyUI_StoryCreator
 ```
 
 ## ComfyUI_StoryCreater_and_Imager Models
