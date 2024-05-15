@@ -4,7 +4,7 @@ cd custom_nodes
 git clone https://github.com/oztrkoguz/ComfyUI_StoryCreator
 ```
 
-## ComfyUI_StoryCreater_and_Imager Models
+## ComfyUI_StoryCreator Models
 I created a dataset for generating short stories [Short-Story](https://huggingface.co/datasets/oztrkoguz/Short-Story) and used it to fine-tune my own model using Phi-3.
 
 + [phi3_short_story_merged_bfloat16](https://huggingface.co/oztrkoguz/phi3_short_story_merged_bfloat16)
