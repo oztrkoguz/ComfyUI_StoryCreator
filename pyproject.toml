@@ -2,7 +2,7 @@
 name = "comfyui_storycreator"
 description = "Nodes:story_sampler_simple, text2, kosmos2_sampler.\nI created a dataset for generating short stories [a/Short-Story](https://huggingface.co/datasets/oztrkoguz/Short-Story) and used it to fine-tune my own model using Phi-3."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/oztrkoguz/ComfyUI_StoryCreator"
